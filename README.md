@@ -6,6 +6,7 @@ I'm currently studying Full Stack WebDev with BloomTech using JavaScript, React,
 Looking to learn more about me: 
 - Find me on [LinkedIn](https://www.linkedin.com/in/eisshd/)
 - Check out my [CodeWars](https://www.codewars.com/users/eisshd)
+- See what I'm doing on [LeetCode](https://leetcode.com/u/eisshd)
 
 Looking to learn more yourself? Try these:
 [W3Schools](https://www.w3schools.com/js/DEFAULT.asp)
